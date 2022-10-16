@@ -11,7 +11,7 @@ import (
 	"time"
 
 	simplejson "github.com/bitly/go-simplejson"
-	"github.com/zoooozz/tt_pay/util"
+	"github.com/liaoxxxx/tt_pay/util"
 )
 
 // 本SDK中的默认Client配置

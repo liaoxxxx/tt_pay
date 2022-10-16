@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zoooozz/tt_pay/config"
+	"github.com/liaoxxxx/tt_pay/config"
 )
 
 // Benchmark for version 1.0, 测试时在TPDomain填写Mock server的URL

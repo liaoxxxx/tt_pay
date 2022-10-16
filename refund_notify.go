@@ -5,8 +5,8 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/zoooozz/tt_pay/consts"
-	"github.com/zoooozz/tt_pay/util"
+	"github.com/liaoxxxx/tt_pay/consts"
+	"github.com/liaoxxxx/tt_pay/util"
 )
 
 // 退款回调请求
